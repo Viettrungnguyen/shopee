@@ -175,7 +175,7 @@ P {
     align-items: center;
     justify-content: space-between;
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 
 .select-input__label {
